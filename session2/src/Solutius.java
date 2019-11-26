@@ -1,5 +1,5 @@
 public class Solutius {
-    
+
     public boolean cigarParty(int cigars, boolean isWeekend) {
         if(isWeekend==true){
 
